@@ -4,8 +4,8 @@
 
 <p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hello+there+!;+I'm+Reyghita+Hafizh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a></p>
 <div align="center">
-  
-## Connect with Me</br>
+ 
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"> Contact with Me</br>
 </div>
 
 <p align="center">
@@ -15,10 +15,9 @@
 
 </div>
 <br>
-
 <div align="center">
   
- ## Current Stats
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 </br>
 </div>
 <br />
@@ -29,5 +28,3 @@
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=reyyghi&theme=gotham"/>
 <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-
-</p>
