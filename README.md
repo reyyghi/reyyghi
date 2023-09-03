@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hello+there+!;+I'm+Reyghita+Hafizh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a></p>
+<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=81A1C1&center=true&vCenter=true&width=435&lines=Hello+there+!;+I'm+Reyghita+Hafizh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a></p>
 <div align="center">
  
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"> Contact with Me</br>
@@ -21,10 +21,10 @@
 </br>
 </div>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=reyyghi&theme=gotham&show_icons=true" alt="reyyghi"/>
+<p align="center"><img width="45%" src="https://streak-stats.demolab.com/?user=reyyghi&theme=nord" alt="reyyghi"/>
 
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=reyyghi&show_icons=true&theme=gotham"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=reyyghi&theme=nord&show_icons=true"/>
 </p>
 
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=reyyghi&theme=gotham"/>
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=reyyghi&theme=nord"/>
 <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
