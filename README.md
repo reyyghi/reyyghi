@@ -2,8 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-
-<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hello+there+!;ww" alt="Typing SVG" /></a></p>
+<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hello+there+!;I'm+Reyghita Hafizh" alt="Typing SVG" /></a></p>
 
 <div align="center">
   
