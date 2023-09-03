@@ -4,23 +4,17 @@
 
 <p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hello+there+!;+I'm+Reyghita+Hafizh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a></p>
 <div align="center">
-
-<div align="center">
   
 ## Connect with Me</br>
 </div>
 
-<br />
 <p align="center">
-<a href="https://dev.to/shamimsikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shamimsikder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shamimsikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimsikder" height="30" width="40" /></a>
-<a href="https://fb.com/shamim.sikder.537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamim.sikder.537" height="30" width="40" /></a>
+  <a href="https://instagram/re.yhfz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://discord.gg/TcnXNNJr" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/discord-round.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
-###
-
 </div>
-<br />
+<br>
 
 <div align="center">
   
