@@ -20,11 +20,5 @@
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 </br>
 </div>
-<br />
-<p align="center"><img width="45%" src="https://streak-stats.demolab.com/?user=reyyghi&theme=nord" alt="reyyghi"/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=reyyghi&theme=nord&show_icons=true"/>
+<p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=reyyghi&theme=nord&show_icons=true"/>
 </p>
-
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=reyyghi&theme=nord"/>
-<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
