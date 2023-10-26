@@ -27,5 +27,3 @@
 </p>
 <p align="center"><img width="90%" src="https://github-profile-trophy.vercel.app/?username=reyyghi&theme=onestar&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
-<p align="center"><img width="15%" src="https://visitcount.itsvg.in/api?id=reyyghi&icon=0&color=0"/>
-</p>
