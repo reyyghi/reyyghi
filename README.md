@@ -21,9 +21,11 @@
  ## GitHub Stats
 </br>
 </div>
-<p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=reyyghi&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+<p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=reyyghi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
 </p>
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=reyyghi&theme=dark&hide_border=false"/>
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=reyyghi&theme=tokyonight&hide_border=false"/>
 </p>
-<p align="center"><img width="90%" src="https://github-profile-trophy.vercel.app/?username=reyyghi&theme=onestar&no-frame=false&no-bg=false&margin-w=4"/>
+<p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyghi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+</p>
+<p align="center"><img width="90%" src="https://github-profile-trophy.vercel.app/?username=reyyghi&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
