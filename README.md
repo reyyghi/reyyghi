@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/re.yhfz" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram" height="auto" width="120" /></a>
-  <a href="https://discord.gg/https://discord.gg/tJBNWkFcTu" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord" height="auto" width="120" /></a>
+  <a href="https://discord.gg/JsSPwT5Ncw" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord" height="auto" width="120" /></a>
   <a href="https://www.youtube.com/channel/UCVn908Sg7qu-qMWp2Dv0lWg" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="youtube" height="auto" width="120" /></a>
 </p>
 
