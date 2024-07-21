@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://r2.fivemanage.com/oSZt3dmchhODxztOuSKKP/rhd_green2_mini.png" />
 </p>
 
 <p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=81A1C1&center=true&vCenter=true&width=435&lines=Hello+there+!;+I'm+Reyghita+Hafizh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a></p>
