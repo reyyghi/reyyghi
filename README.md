@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://r2.fivemanage.com/oSZt3dmchhODxztOuSKKP/rhd_green2_mini.png" />
-</p>
-
 <div align="center">
  
 ## My Social Media</br>
