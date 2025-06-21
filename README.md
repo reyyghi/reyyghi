@@ -1,4 +1,6 @@
-# Hi, I'm Rey! 👋
+<div align="center">
+  <h1>Hi, I'm Rey! 👋</h1>
+</div>
 
 <div align="center">
   
